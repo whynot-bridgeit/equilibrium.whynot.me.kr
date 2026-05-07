@@ -25,6 +25,7 @@ const NAV = [
       { href: '/dashboard/trends', label: '🔥 트렌드 & 컨텐츠 제안' },
       { href: '/dashboard/benchmarks', label: '🤝 벤치마킹 & 콜라보' },
       { href: '/dashboard/countries', label: '🗺️ 국가별 기회 분석' },
+      { href: '/dashboard/sourcing', label: '🛒 이커머스 소싱' },
     ],
   },
 ];
