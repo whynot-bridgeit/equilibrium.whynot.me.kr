@@ -8,3 +8,4 @@ node_modules/
 out/
 dist/
 .vercel
+tsconfig.tsbuildinfo
