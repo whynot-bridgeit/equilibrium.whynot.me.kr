@@ -40,3 +40,12 @@ body {
 .recharts-tooltip-wrapper {
   outline: none !important;
 }
+
+/* Haerang: character entrance animation (plays once per mount) */
+@keyframes charEntrance {
+  from { opacity: 0; transform: scale(0.7); }
+  to   { opacity: 1; transform: scale(1); }
+}
+.char-entrance {
+  animation: charEntrance 0.35s ease-out forwards;
+}
